@@ -13,6 +13,6 @@ This example will read data from Customer table of Northwind database. You can d
 
 Below picture shows all customers from selected country - UK
 
-![jQuery Ajax call to ASP.NET web method](http://dotnetmentors.com/Images/read-customer-by-jquery-ajax.png)
+![jQuery Ajax call to ASP.NET web method](https://geeksarray.com/images/blog/read-customer-by-jquery-ajax.png)
 
-For more details on  [how to use pagemethod / webmethod with jQuery Ajax call in ASP.NET](http://dotnetmentors.com/aspnet/jquery-ajax-with-pagemethod-in-asp-net.aspx)
+For more details on  [how to use pagemethod / webmethod with jQuery Ajax call in ASP.NET](https://geeksarray.com/blog/jquery-ajax-with-pagemethod-in-asp-net.aspx)

@@ -1,0 +1,8 @@
+C:\Users\NQE8503\Laxmikant\New folder\jQueryAJAX\jQueryAJAX\bin\jQueryAJAX.dll
+C:\Users\NQE8503\Laxmikant\New folder\jQueryAJAX\jQueryAJAX\bin\jQueryAJAX.pdb
+C:\Users\NQE8503\Laxmikant\New folder\jQueryAJAX\jQueryAJAX\obj\Debug\jQueryAJAX.dll
+C:\Users\NQE8503\Laxmikant\New folder\jQueryAJAX\jQueryAJAX\obj\Debug\jQueryAJAX.pdb
+C:\Laxmikant\D\Applications\jQueryAJAX\jQueryAJAX\bin\jQueryAJAX.dll
+C:\Laxmikant\D\Applications\jQueryAJAX\jQueryAJAX\bin\jQueryAJAX.pdb
+C:\Laxmikant\D\Applications\jQueryAJAX\jQueryAJAX\obj\Debug\jQueryAJAX.dll
+C:\Laxmikant\D\Applications\jQueryAJAX\jQueryAJAX\obj\Debug\jQueryAJAX.pdb
